@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:21.526829
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:53
 #+TITLE: 佛說觀自在菩薩母陀羅尼經
 #+PROPERTY: CBETA_ID T20n1117
 #+PROPERTY: ID KR6j0328
