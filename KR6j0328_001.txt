@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:21.526829
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:53
 #+TITLE: 佛說觀自在菩薩母陀羅尼經
 #+PROPERTY: CBETA_ID T20n1117
 #+PROPERTY: ID KR6j0328
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1117
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0328_T_000-0506a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0328_T_001-0506a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1117¶
-
- 佛說觀自在菩薩母陀羅尼經¶
+No. 1117¶
+佛說觀自在菩薩母陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
 如是我聞。一時佛在廣嚴城。與大比丘眾舍¶
 利子等五百人俱。復有慈氏等大菩薩眾。恭¶
